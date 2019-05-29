@@ -1,0 +1,12 @@
+.full
+{
+    align  :center;
+    background-color: aqua;
+    margin: 10% auto;
+    padding: 30px;
+}
+.R
+{
+	float: right;
+	text-align: right;
+}
